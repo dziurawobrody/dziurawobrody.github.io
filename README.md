@@ -1,2 +1,2 @@
 # dziurawobrody.github.io
-website project
+shitty website project
